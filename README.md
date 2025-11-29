@@ -65,6 +65,9 @@ Proje aşağıdaki temel yeteneklere sahiptir:
 ### 3. DALL-E ile Görsel Oluşturma
 <img width="1812" height="1151" alt="Image" src="https://github.com/user-attachments/assets/68deebdc-95e7-4188-b817-0832c57c3f23" />
 
+### 3. Speech to Text
+<img width="2333" height="796" alt="Image" src="https://github.com/user-attachments/assets/e9f71d4e-0e4f-4af3-9914-81d4588222de" />
+
 ## 🛠 Kullanılan Teknolojiler
 
 * **Platform:** .NET Core 8 / 9
