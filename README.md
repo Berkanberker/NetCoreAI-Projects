@@ -108,4 +108,4 @@ Google Gemini API kullanmak için şu adımları izleyin:
 Bu proje MIT lisansı altında sunulmuştur.
 
 ---
-*Geliştirici: **Berkan Berker***
+*© 2025 Berkan Berker – .NET Core ile Yapay Zeka Entegrasyonları***
