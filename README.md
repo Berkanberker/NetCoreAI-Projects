@@ -56,8 +56,8 @@ Proje aşağıdaki temel yeteneklere sahiptir:
 *(Uygulama arayüzlerinden örnek görseller)*
 
 ### 1. AI Sohbet ve Asistan Arayüzü
-![Chatbot Ekranı](https://via.placeholder.com/800x400?text=Buraya+Chatbot+Resmi+Gelecek)
-*(Buraya resim linkini yapıştırabilirsin)*
+<img width="1110" height="627" alt="Image" src="https://github.com/user-attachments/assets/cb7a44dc-3198-4902-b839-9326af5fa126" />
+
 
 ### 2. Yemek Tarifi ve Görsel Üretim
 <img width="1363" height="1217" alt="Image" src="https://github.com/user-attachments/assets/f43e0495-7e3a-47e0-8a0d-443dbec2e27b" />
