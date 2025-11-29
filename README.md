@@ -61,7 +61,7 @@ Proje aşağıdaki temel yeteneklere sahiptir:
 
 ### 2. Yemek Tarifi ve Görsel Üretim
 <img width="1363" height="1217" alt="Image" src="https://github.com/user-attachments/assets/f43e0495-7e3a-47e0-8a0d-443dbec2e27b" />
----
+
 ### 3. DALL-E ile Görsel Oluşturma
 <img width="1812" height="1151" alt="Image" src="https://github.com/user-attachments/assets/68deebdc-95e7-4188-b817-0832c57c3f23" />
 
