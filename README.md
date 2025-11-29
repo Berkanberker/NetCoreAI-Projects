@@ -60,9 +60,7 @@ Proje aşağıdaki temel yeteneklere sahiptir:
 *(Buraya resim linkini yapıştırabilirsin)*
 
 ### 2. Yemek Tarifi ve Görsel Üretim
-![Tarif Ekranı](https://via.placeholder.com/800x400?text=Buraya+Tarif+Resmi+Gelecek)
-*(Buraya resim linkini yapıştırabilirsin)*
-
+https://github.com/Berkanberker/NetCoreAI-Projects/issues/2
 ---
 
 ## 🛠 Kullanılan Teknolojiler
