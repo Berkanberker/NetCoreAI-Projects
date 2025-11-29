@@ -1,4 +1,4 @@
-# 🤖 NetCoreAI: .NET Core & Google Gemini Entegrasyonları
+# 🤖 NetCoreAI: .NET Core & Yapay Zeka Entegrasyonları
 
 ![.NET](https://img.shields.io/badge/.NET-8.0%20%2F%209.0-purple?style=flat-square&logo=dotnet)
 ![AI Model](https://img.shields.io/badge/AI-Google%20Gemini%20Pro-4285F4?style=flat-square&logo=google)
